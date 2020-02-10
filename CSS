@@ -48,6 +48,7 @@ h2 {
 }
 #time {
   float: right;
+  font-family: 'Orbitron';
 }
 
 body.night {
